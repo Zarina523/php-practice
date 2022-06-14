@@ -1,0 +1,18 @@
+{
+    "name": "lab42/container",
+    "description": "PSR-11 (Container example)",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Zarina523",
+            "email": "zargiloo3@yandex.ru"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {
+        "psr/container": "^2.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "9.5.20"
+    }
+}
